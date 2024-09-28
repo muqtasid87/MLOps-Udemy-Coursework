@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps%20Coursework/3.%20MLFlow/mlruns/479011688316131908/b64ed9be2cc8478caea3d70c27acf39d/artifacts
+end_time: 1725180676747
+entry_point_name: ''
+experiment_id: '479011688316131908'
+lifecycle_stage: active
+run_id: b64ed9be2cc8478caea3d70c27acf39d
+run_name: LogisticRegression
+run_uuid: b64ed9be2cc8478caea3d70c27acf39d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725180674236
+status: 3
+tags: []
+user_id: muqta

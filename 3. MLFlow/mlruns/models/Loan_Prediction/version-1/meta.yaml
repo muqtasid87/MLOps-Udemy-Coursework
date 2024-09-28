@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1725180794843
+current_stage: None
+description: ''
+last_updated_timestamp: 1725180794843
+name: Loan_Prediction
+run_id: 637e07ff15c6420784291e976581e526
+run_link: ''
+source: file:///D:/MLOps%20Coursework/3.%20MLFlow/mlruns/479011688316131908/637e07ff15c6420784291e976581e526/artifacts/DecisionTreeClassifier
+status: READY
+status_message: null
+storage_location: file:///D:/MLOps%20Coursework/3.%20MLFlow/mlruns/479011688316131908/637e07ff15c6420784291e976581e526/artifacts/DecisionTreeClassifier
+user_id: null
+version: 1

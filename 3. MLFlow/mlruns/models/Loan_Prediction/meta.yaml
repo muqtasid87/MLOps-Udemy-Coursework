@@ -1,0 +1,8 @@
+aliases:
+  experimenting: '1'
+  production: '3'
+  staging: '2'
+creation_timestamp: 1725180794818
+description: ''
+last_updated_timestamp: 1725181550740
+name: Loan_Prediction

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps%20Coursework/3.%20MLFlow/mlruns/479011688316131908/637e07ff15c6420784291e976581e526/artifacts
+end_time: 1725180674209
+entry_point_name: ''
+experiment_id: '479011688316131908'
+lifecycle_stage: active
+run_id: 637e07ff15c6420784291e976581e526
+run_name: DecisionTreeClassifier
+run_uuid: 637e07ff15c6420784291e976581e526
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725180670233
+status: 3
+tags: []
+user_id: muqta

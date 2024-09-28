@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/MLOps%20Coursework/3.%20MLFlow/mlruns/479011688316131908/a05edbf0f2994d36a805cadca114cc27/artifacts
+deleted_time: 1725180688934
+end_time: null
+entry_point_name: ''
+experiment_id: '479011688316131908'
+lifecycle_stage: deleted
+run_id: a05edbf0f2994d36a805cadca114cc27
+run_name: industrious-mouse-11
+run_uuid: a05edbf0f2994d36a805cadca114cc27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725180462444
+status: 1
+tags: []
+user_id: muqta

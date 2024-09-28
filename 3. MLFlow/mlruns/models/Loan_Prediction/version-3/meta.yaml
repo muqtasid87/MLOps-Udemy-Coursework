@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1725180806112
+current_stage: None
+description: ''
+last_updated_timestamp: 1725180806112
+name: Loan_Prediction
+run_id: e58f137d7f4647ffa12102b0852089e4
+run_link: ''
+source: file:///D:/MLOps%20Coursework/3.%20MLFlow/mlruns/479011688316131908/e58f137d7f4647ffa12102b0852089e4/artifacts/RandomForestClassifier
+status: READY
+status_message: null
+storage_location: file:///D:/MLOps%20Coursework/3.%20MLFlow/mlruns/479011688316131908/e58f137d7f4647ffa12102b0852089e4/artifacts/RandomForestClassifier
+user_id: null
+version: 3
